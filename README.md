@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my software development journey, different learning programs
 - 📫 How to reach me on GitHub: https://github.com/WegenerSteven and on LinkedIn through:https://www.linkedin.com/in/benard-shikhule-3055192a6/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: learning is a journey that never ends!!
+- ⚡ Fun fact: learning is a journey that never ends!!!
 -->
