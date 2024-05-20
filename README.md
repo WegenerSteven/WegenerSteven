@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **WegenerSteven/WegenerSteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me on GitHub: https://github.com/WegenerSteven and on LinkedIn through:https://www.linkedin.com/in/benard-shikhule-3055192a6/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: learning is a journey that never ends!!!
--->
