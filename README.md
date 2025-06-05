@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RentIn](https://github.com/WegenerSteven/RentInn-website.git)
 
-- 🌱 I’m currently learning **React.js, PHP, node.js, express.js**
+- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/), [node.js](https://nodejs.org/en), [nest.js](https://nestjs.com/)**
 
 - 👯 I’m looking to collaborate on [UnescoKyu Website](https://github.com/WegenerSteven/Unesco.git)
 
