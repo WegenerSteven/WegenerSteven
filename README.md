@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wegener Steven</h1>
+<h1 align="center">Hi 👋, I'm Shikhule Benard</h1>
 <h3 align="center">A passionate software Developer and cloud ethusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wegenersteven&label=Profile%20views&color=0e75b6&style=flat" alt="wegenersteven" /> </p>
